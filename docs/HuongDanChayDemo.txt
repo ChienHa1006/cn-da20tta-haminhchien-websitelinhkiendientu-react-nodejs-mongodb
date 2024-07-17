@@ -1,0 +1,3 @@
+- Vào folder Scr => mở 2 folder frontend và backend sau đó chạy 2 folder với lệnh npm i.
+- sau đó chạy lệnh npm start để chạy dự án.
+Lưu ý: nếu chưa có sẵn node_modules thì phải chạy lệnh npm i. 
